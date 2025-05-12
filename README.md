@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aun Zaidi 👋</h1>
+<h1 align="center">Hi, I'm Aun 👋</h1>
 <p align="center">
   A passionate self-taught developer exploring the world of web and software development.
 </p>
