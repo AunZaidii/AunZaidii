@@ -13,23 +13,6 @@
 
 ---
 
-## 🔧 Projects I'm Working On
-
-Here are some of the public repositories you can explore:
-
-| Repository | Description | Tech |
-|-----------|-------------|------|
-| [Saylani-Website-Clone](https://github.com/AunZaidii/Saylani-Website-Clone) | A full HTML/CSS clone of the Saylani Welfare website | HTML |
-| [Chess-Board-HTML](https://github.com/AunZaidii/Chess-Board-HTML) | A simple chessboard made using HTML tables | HTML |
-| [Forms-HTML](https://github.com/AunZaidii/Forms-HTML) | Practice project for HTML form elements | HTML |
-| [password-generator-python](https://github.com/AunZaidii/password-generator-python) | A Python script to generate secure passwords | Python |
-| [Employee-management-system](https://github.com/AunZaidii/Employee-management-system) | A desktop app for managing employees using Tkinter + MS Access | Python |
-| [Basic-Calculator](https://github.com/AunZaidii/Basic-Calculator) | A calculator built with HTML, CSS, and JS | JavaScript |
-
-Explore more projects in my [Repositories](https://github.com/AunZaidii?tab=repositories) section 🚀
-
----
-
 ## 🌐 Connect with Me
 
 Feel free to connect with me on different platforms:
