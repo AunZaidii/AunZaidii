@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm currently learning and building projects in **HTML**, **CSS**, **Python**, **JavaScript**, and **C++**
 - 🛠️ Focused on improving my skills through hands-on development
-- 🎯 Goal: To become a full-stack developer and contribute to open-source projects
+- � Goal: To become a full-stack developer and contribute to open-source projects
 
 ---
 
@@ -24,6 +24,14 @@ Feel free to connect with me on different platforms:
 
 ---
 
+## 🖥️ Portfolio Website
+
+Check out my personal portfolio to see my projects and learn more about my work:
+
+🔗 [aunzaidi.me](https://aunzaidi.me)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -34,7 +42,7 @@ Feel free to connect with me on different platforms:
 
 ## 💡 Quote to Live By
 
-> “The expert in anything was once a beginner.”
+> "The expert in anything was once a beginner."
 
 ---
 
